@@ -14,6 +14,8 @@ public class DistinctExample {
             The distinct() method removes duplicate elements from the stream —
             it ensures only unique values are kept.
 
+            // Distinct gives unique elements String, Integers...
+
 
          */
 
